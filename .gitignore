@@ -1,5 +1,5 @@
 .vim/undo
 .vim/backup
-.vim/tmp
+.vim/tmp/*
 .vim/bundle/*
 !.vim/bundle/neobundle.vim
